@@ -238,20 +238,24 @@ ul.tagcloud
 		.metadata .published .day
 		{
 			background: none repeat scroll 0 0 #F7F1E3;
-			border-radius: 0 0 3px 3px;
+			border-radius: 0 0 0px 0px;
 			box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
 			color: #333333;
 			font-size: 150%;
 			line-height: 1em;
-			padding: 5px 0px 7px 0px;
+			padding: 0px 0px 4px 0px;
 		}
 
 		.metadata .published .year
 		{
-			background-color: transparent;
-			color: #999999;
-			margin-top: 5px;
-			display: none;
+			background: none repeat scroll 0 0 #F7F1E3;
+			color: #333333;
+			border-radius: 0 0 3px 3px;
+			box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+			margin-top: 0px;
+			font-size: 65%;
+			line-height: 1em;
+			padding: 0px 0px 2px 0px;
 		}
 
 	.metadata .commentcount { display: inline; }
