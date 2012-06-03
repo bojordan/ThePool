@@ -1,0 +1,7 @@
+﻿Name: The Pool
+Author: Patrick Robin
+Description: The Pool is a clean and simple theme that's ideally suited to a blog or personal website, to use the featured text box simply add a div with a class of 'featured'. The theme can be seen in action at http://www.patrickrobin.co.uk. 
+Version: 1.0
+Tags: Personal, Blog, Contemporary
+Website: http://www.patrickrobin.co.uk
+Zones: Navigation, Messages, BeforeContent, Content, AfterContent, FooterFirst, FooterSecond, FooterThird
