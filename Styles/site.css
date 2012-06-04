@@ -131,6 +131,27 @@ html
 		position: absolute;
 	}
 
+.blog-description
+{
+	font-size: 180%;
+	line-height: 40px;
+	background-color: #3399CC;
+	color: #FFFFFF;
+	margin-bottom: 22px;
+	padding-top: 20px;
+	padding-bottom: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+	.blog-description:before
+	{
+		margin-top: -40px;
+		content: url(../images/speechUp.gif);
+		display: block;
+		position: absolute;
+	}
+
 
 #footer
 {
